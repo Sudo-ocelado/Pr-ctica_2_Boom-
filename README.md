@@ -78,13 +78,7 @@ Si deseas personalizar el juego, aquí tienes algunas ideas:
 
 ## 👨‍💻 Autor
 
-Este juego fue desarrollado por Fernando como parte de un proyecto personal. ¡Espero que lo disfrutes!
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE). Siéntete libre de usarlo, modificarlo y distribuirlo.
+Este juego fue desarrollado por Fernando como parte de un proyecto de clase. ¡Espero que lo disfrutes!
 
 ---
 
